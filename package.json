@@ -1,0 +1,22 @@
+{
+    "name": "genlibrary",
+    "version": "0.0.1",
+    "description": "Missing description.",
+    "scripts": {
+        "start": "parcel index.html",
+        "build": "parcel build index.html",
+        "test": "jest"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "jest-environment-jsdom": "latest",
+        "parcel": "latest"
+    },
+    "keywords": [
+        "mit-license",
+        "windows",
+        "ubuntu"
+    ],
+    "license": "mit",
+    "author": "Rickard \"Mandera\" Abraham"
+}
