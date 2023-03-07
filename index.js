@@ -1,3 +1,2 @@
 
-exports.Vec2 = require("./vec2");
-
+exports.hi = 5;
