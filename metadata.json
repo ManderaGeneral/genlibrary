@@ -1,4 +1,5 @@
 {
+    "target": "node",
     "dependencies": [],
     "devDependencies": [
         "jest-environment-jsdom",
@@ -7,7 +8,6 @@
     "enabled": true,
     "private": false,
     "name": "genlibrary",
-    "target": "node",
     "version": "0.0.2",
     "description": "Missing description.",
     "topics": [],
