@@ -1,7 +1,10 @@
 {
     "target": "node",
     "dependencies": [],
-    "devDependencies": [],
+    "devDependencies": [
+        "jest-environment-jsdom",
+        "parcel"
+    ],
     "enabled": true,
     "private": false,
     "name": "genlibrary",
